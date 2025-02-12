@@ -1,0 +1,490 @@
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 28.75,
+    "system_time_seconds": 11.82,
+    "wall_time_seconds": 7.47,
+    "cpu_percentage": "542%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 27.99,
+    "system_time_seconds": 11.01,
+    "wall_time_seconds": 6.31,
+    "cpu_percentage": "617%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 28.67,
+    "system_time_seconds": 10.91,
+    "wall_time_seconds": 6.46,
+    "cpu_percentage": "612%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 28.20,
+    "system_time_seconds": 11.23,
+    "wall_time_seconds": 6.31,
+    "cpu_percentage": "624%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 28.40,
+    "system_time_seconds": 10.55,
+    "wall_time_seconds": 6.21,
+    "cpu_percentage": "626%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 30.87,
+    "system_time_seconds": 10.93,
+    "wall_time_seconds": 6.22,
+    "cpu_percentage": "671%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 28.54,
+    "system_time_seconds": 10.66,
+    "wall_time_seconds": 6.32,
+    "cpu_percentage": "620%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 27.95,
+    "system_time_seconds": 11.18,
+    "wall_time_seconds": 6.36,
+    "cpu_percentage": "614%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 28.18,
+    "system_time_seconds": 11.17,
+    "wall_time_seconds": 6.25,
+    "cpu_percentage": "628%"
+}
+{
+    "interpreter": "lfvm",
+    "user_time_seconds": 30.69,
+    "system_time_seconds": 10.65,
+    "wall_time_seconds": 6.30,
+    "cpu_percentage": "656%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 32.34,
+    "system_time_seconds": 12.10,
+    "wall_time_seconds": 17.07,
+    "cpu_percentage": "260%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 32.24,
+    "system_time_seconds": 10.88,
+    "wall_time_seconds": 12.36,
+    "cpu_percentage": "348%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 31.95,
+    "system_time_seconds": 11.22,
+    "wall_time_seconds": 12.65,
+    "cpu_percentage": "341%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 32.12,
+    "system_time_seconds": 10.97,
+    "wall_time_seconds": 12.24,
+    "cpu_percentage": "352%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 31.97,
+    "system_time_seconds": 10.12,
+    "wall_time_seconds": 10.25,
+    "cpu_percentage": "410%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 32.14,
+    "system_time_seconds": 10.17,
+    "wall_time_seconds": 10.44,
+    "cpu_percentage": "405%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 31.90,
+    "system_time_seconds": 11.02,
+    "wall_time_seconds": 12.48,
+    "cpu_percentage": "343%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 32.00,
+    "system_time_seconds": 10.42,
+    "wall_time_seconds": 10.39,
+    "cpu_percentage": "408%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 32.04,
+    "system_time_seconds": 10.50,
+    "wall_time_seconds": 10.37,
+    "cpu_percentage": "409%"
+}
+{
+    "interpreter": "evmrs-custom-release",
+    "user_time_seconds": 31.96,
+    "system_time_seconds": 10.39,
+    "wall_time_seconds": 10.40,
+    "cpu_percentage": "406%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.77,
+    "system_time_seconds": 20.14,
+    "wall_time_seconds": 28.38,
+    "cpu_percentage": "376%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.27,
+    "system_time_seconds": 20.66,
+    "wall_time_seconds": 27.63,
+    "cpu_percentage": "387%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.90,
+    "system_time_seconds": 19.98,
+    "wall_time_seconds": 27.84,
+    "cpu_percentage": "383%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.75,
+    "system_time_seconds": 19.20,
+    "wall_time_seconds": 27.85,
+    "cpu_percentage": "380%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.44,
+    "system_time_seconds": 21.19,
+    "wall_time_seconds": 27.81,
+    "cpu_percentage": "386%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.35,
+    "system_time_seconds": 20.22,
+    "wall_time_seconds": 27.77,
+    "cpu_percentage": "383%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.38,
+    "system_time_seconds": 20.67,
+    "wall_time_seconds": 27.69,
+    "cpu_percentage": "386%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.71,
+    "system_time_seconds": 20.27,
+    "wall_time_seconds": 28.18,
+    "cpu_percentage": "379%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 86.91,
+    "system_time_seconds": 20.73,
+    "wall_time_seconds": 27.77,
+    "cpu_percentage": "387%"
+}
+{
+    "interpreter": "evmzero-gcc-make",
+    "user_time_seconds": 87.08,
+    "system_time_seconds": 19.86,
+    "wall_time_seconds": 27.69,
+    "cpu_percentage": "386%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 74.52,
+    "system_time_seconds": 7.59,
+    "wall_time_seconds": 27.44,
+    "cpu_percentage": "299%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 74.05,
+    "system_time_seconds": 7.70,
+    "wall_time_seconds": 27.28,
+    "cpu_percentage": "299%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 74.46,
+    "system_time_seconds": 7.70,
+    "wall_time_seconds": 27.48,
+    "cpu_percentage": "298%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 73.68,
+    "system_time_seconds": 7.66,
+    "wall_time_seconds": 26.82,
+    "cpu_percentage": "303%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 74.29,
+    "system_time_seconds": 7.82,
+    "wall_time_seconds": 26.99,
+    "cpu_percentage": "304%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 73.87,
+    "system_time_seconds": 7.80,
+    "wall_time_seconds": 27.11,
+    "cpu_percentage": "301%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 73.12,
+    "system_time_seconds": 7.82,
+    "wall_time_seconds": 26.60,
+    "cpu_percentage": "304%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 73.73,
+    "system_time_seconds": 7.67,
+    "wall_time_seconds": 27.01,
+    "cpu_percentage": "301%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 73.42,
+    "system_time_seconds": 7.71,
+    "wall_time_seconds": 26.77,
+    "cpu_percentage": "303%"
+}
+{
+    "interpreter": "evmzero-clang-make",
+    "user_time_seconds": 73.27,
+    "system_time_seconds": 7.65,
+    "wall_time_seconds": 26.57,
+    "cpu_percentage": "304%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.98,
+    "system_time_seconds": 9.21,
+    "wall_time_seconds": 15.92,
+    "cpu_percentage": "264%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.26,
+    "system_time_seconds": 8.77,
+    "wall_time_seconds": 79.48,
+    "cpu_percentage": "51%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.54,
+    "system_time_seconds": 8.78,
+    "wall_time_seconds": 12.19,
+    "cpu_percentage": "338%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.23,
+    "system_time_seconds": 7.55,
+    "wall_time_seconds": 8.69,
+    "cpu_percentage": "457%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.24,
+    "system_time_seconds": 8.10,
+    "wall_time_seconds": 10.41,
+    "cpu_percentage": "387%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.18,
+    "system_time_seconds": 7.66,
+    "wall_time_seconds": 8.69,
+    "cpu_percentage": "458%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 31.98,
+    "system_time_seconds": 7.68,
+    "wall_time_seconds": 8.68,
+    "cpu_percentage": "456%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.16,
+    "system_time_seconds": 8.42,
+    "wall_time_seconds": 10.69,
+    "cpu_percentage": "379%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.50,
+    "system_time_seconds": 8.53,
+    "wall_time_seconds": 10.17,
+    "cpu_percentage": "403%"
+}
+{
+    "interpreter": "evmrs-default-release",
+    "user_time_seconds": 32.16,
+    "system_time_seconds": 7.78,
+    "wall_time_seconds": 8.82,
+    "cpu_percentage": "452%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 98.11,
+    "system_time_seconds": 60.48,
+    "wall_time_seconds": 15.51,
+    "cpu_percentage": "1022%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.04,
+    "system_time_seconds": 61.53,
+    "wall_time_seconds": 14.51,
+    "cpu_percentage": "1092%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 98.57,
+    "system_time_seconds": 61.41,
+    "wall_time_seconds": 15.59,
+    "cpu_percentage": "1025%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.31,
+    "system_time_seconds": 55.05,
+    "wall_time_seconds": 14.62,
+    "cpu_percentage": "1042%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.14,
+    "system_time_seconds": 54.18,
+    "wall_time_seconds": 14.50,
+    "cpu_percentage": "1043%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.32,
+    "system_time_seconds": 54.60,
+    "wall_time_seconds": 14.43,
+    "cpu_percentage": "1052%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.58,
+    "system_time_seconds": 60.96,
+    "wall_time_seconds": 14.55,
+    "cpu_percentage": "1089%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.39,
+    "system_time_seconds": 62.10,
+    "wall_time_seconds": 14.47,
+    "cpu_percentage": "1101%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.52,
+    "system_time_seconds": 49.02,
+    "wall_time_seconds": 14.32,
+    "cpu_percentage": "1023%"
+}
+{
+    "interpreter": "evmzero-gcc-ninja",
+    "user_time_seconds": 97.24,
+    "system_time_seconds": 52.71,
+    "wall_time_seconds": 14.41,
+    "cpu_percentage": "1040%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.49,
+    "system_time_seconds": 7.54,
+    "wall_time_seconds": 17.53,
+    "cpu_percentage": "513%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.83,
+    "system_time_seconds": 7.71,
+    "wall_time_seconds": 17.53,
+    "cpu_percentage": "516%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.85,
+    "system_time_seconds": 7.43,
+    "wall_time_seconds": 17.89,
+    "cpu_percentage": "504%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.08,
+    "system_time_seconds": 7.52,
+    "wall_time_seconds": 17.34,
+    "cpu_percentage": "516%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.19,
+    "system_time_seconds": 7.81,
+    "wall_time_seconds": 17.34,
+    "cpu_percentage": "519%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 81.93,
+    "system_time_seconds": 7.65,
+    "wall_time_seconds": 17.14,
+    "cpu_percentage": "522%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.73,
+    "system_time_seconds": 7.57,
+    "wall_time_seconds": 17.75,
+    "cpu_percentage": "508%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.44,
+    "system_time_seconds": 7.64,
+    "wall_time_seconds": 17.60,
+    "cpu_percentage": "511%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.41,
+    "system_time_seconds": 7.80,
+    "wall_time_seconds": 17.81,
+    "cpu_percentage": "506%"
+}
+{
+    "interpreter": "evmzero-clang-ninja",
+    "user_time_seconds": 82.79,
+    "system_time_seconds": 7.71,
+    "wall_time_seconds": 17.55,
+    "cpu_percentage": "515%"
+}
