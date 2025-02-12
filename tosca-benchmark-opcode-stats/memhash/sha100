@@ -1,0 +1,14 @@
+Sub: 100
+IsZero: 101
+And: 1
+Sha3: 100
+CallDataLoad: 1
+MLoad: 1
+MStore: 101
+Jump: 100
+JumpI: 101
+JumpDest: 2
+Push1: 607
+Dup1: 101
+Swap1: 100
+Return: 1
