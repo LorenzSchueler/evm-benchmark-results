@@ -1,0 +1,12 @@
+performance,~mimalloc = unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch
+performance,~unsafe-stack = mimalloc,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch
+performance,~unsafe-hints = mimalloc,unsafe-stack,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch
+performance,~custom-evmc = mimalloc,unsafe-stack,unsafe-hints,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch
+performance,~hash-cache = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch
+performance,~code-analysis-cache = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch
+performance,~alloc-reuse = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,fn-ptr-conversion-expanded-dispatch
+performance,thread-local-cache = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch,thread-local-cache
+performance,~fn-ptr-conversion-expanded-dispatch = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse
+performance,~fn-ptr-conversion-expanded-dispatch,jumptable-dispatch = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,jumptable-dispatch
+performance,~fn-ptr-conversion-expanded-dispatch,fn-ptr-conversion-inline-dispatch = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-inline-dispatch
+performance = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch

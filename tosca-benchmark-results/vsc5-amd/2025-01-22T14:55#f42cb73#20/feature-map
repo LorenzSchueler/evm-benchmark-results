@@ -1,0 +1,2 @@
+performance,~code-analysis-cache,~fn-ptr-conversion-expanded-dispatch,jumptable-dispatch = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,alloc-reuse,jumptable-dispatch
+performance = mimalloc,unsafe-stack,unsafe-hints,custom-evmc,hash-cache,code-analysis-cache,alloc-reuse,fn-ptr-conversion-expanded-dispatch

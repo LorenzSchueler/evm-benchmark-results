@@ -1,0 +1,8 @@
+{"counter-value" : "539713752534.000000", "unit" : "", "event" : "cycles", "event-runtime" : 92337868449, "pcnt-running" : 50.00, "metric-value" : "0.000000", "metric-unit" : "GHz"}
+{"counter-value" : "959894102130.000000", "unit" : "", "event" : "instructions", "event-runtime" : 115362082306, "pcnt-running" : 62.00, "metric-value" : "1.778524", "metric-unit" : "insn per cycle"}
+{"counter-value" : "167691172718.000000", "unit" : "", "event" : "branches", "event-runtime" : 138422814030, "pcnt-running" : 75.00, "metric-value" : "0.000000", "metric-unit" : "(null)"}
+{"counter-value" : "2997075904.000000", "unit" : "", "event" : "branch-misses", "event-runtime" : 138271291828, "pcnt-running" : 75.00, "metric-value" : "1.787259", "metric-unit" : "of all branches"}
+{"counter-value" : "244107212468.000000", "unit" : "", "event" : "L1-dcache-loads", "event-runtime" : 138028156583, "pcnt-running" : 74.00, "metric-value" : "0.000000", "metric-unit" : "(null)"}
+{"counter-value" : "2822943139.000000", "unit" : "", "event" : "L1-dcache-load-misses", "event-runtime" : 46083321640, "pcnt-running" : 24.00, "metric-value" : "1.156436", "metric-unit" : "of all L1-dcache accesses"}
+{"counter-value" : "257283665.000000", "unit" : "", "event" : "LLC-loads", "event-runtime" : 46198304282, "pcnt-running" : 25.00, "metric-value" : "0.000000", "metric-unit" : "(null)"}
+{"counter-value" : "39755886.000000", "unit" : "", "event" : "LLC-load-misses", "event-runtime" : 69231107755, "pcnt-running" : 37.00, "metric-value" : "15.452161", "metric-unit" : "of all LL-cache accesses"}

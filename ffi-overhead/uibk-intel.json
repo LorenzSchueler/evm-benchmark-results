@@ -1,0 +1,68 @@
+{
+    "Rust -> Rust": {
+        "no_args        ": 2.0,
+        "int            ": 2.0,
+        "bytes_owned    ": 5.0,
+        "bytes_ref      ": 2.1,
+        "string_owned   ": 3.7,
+        "string_ref     ": 2.1
+    },
+    "C++ -> Rust": {
+        "no_args        ": 2.7,
+        "int            ": 2.7,
+        "bytes_owned    ": 3.7,
+        "bytes_ref      ": 2.7,
+        "string_owned   ": 3.7,
+        "string_ref     ": 3.0
+    },
+    "Go -> Rust": {
+        "no_args        ": 78.5,
+        "int            ": 76.1,
+        "bytes_ref      ": 75.7,
+        "string_ref     ": 76.8
+    },
+    "Rust -> C++": {
+        "no_args        ": 2.0,
+        "int            ": 2.0,
+        "bytes_owned    ": 6.3,
+        "bytes_ref      ": 2.1,
+        "string_owned   ": 4.9,
+        "string_ref     ": 2.1
+    },
+    "C++ -> C++": {
+        "no_args        ": 2.7,
+        "int            ": 2.7,
+        "bytes_owned    ": 5.0,
+        "bytes_ref      ": 2.7,
+        "string_owned   ": 5.0,
+        "string_ref     ": 3.0
+    },
+    "Go -> C++": {
+        "no_args        ": 79.3,
+        "int            ": 81.7,
+        "bytes_ref      ": 80.9,
+        "string_ref     ": 76.2
+    },
+    "Rust -> Go": {
+        "no_args        ": 133.5,
+        "int            ": 130.5,
+        "bytes_owned    ": 220.1,
+        "bytes_ref      ": 132.9,
+        "string_owned   ": 219.8,
+        "string_ref     ": 132.0
+    },
+    "C++ -> Go": {
+        "no_args        ": 134.7,
+        "int            ": 133.3,
+        "bytes_owned    ": 219.6,
+        "bytes_ref      ": 134.9,
+        "string_owned   ": 219.8,
+        "string_ref     ": 137.7
+    },
+    "Go -> Go": {
+        "no_args        ": 212.9,
+        "int            ": 214.6,
+        "bytes_ref      ": 216.5,
+        "string_ref     ": 218.5
+    }
+}
